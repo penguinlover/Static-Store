@@ -1,0 +1,69 @@
+<mockup version="1.0" skin="sketch" measuredW="1337" measuredH="781" mockupW="1272" mockupH="766">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="65" y="15" w="1272" h="766" measuredW="1272" measuredH="766" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>main_layout</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1272" h="766" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0"/>
+        <control controlID="1" controlTypeID="__group__" x="0" y="15" w="1272" h="59" measuredW="1272" measuredH="159" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <markup>true</markup>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="54" w="1272" h="-1" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="1"/>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="27" y="0" w="150" h="38" measuredW="142" measuredH="37" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <bold>true</bold>
+                <size>28</size>
+                <text>Timesheet</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="1171" y="11" w="-1" h="-1" measuredW="49" measuredH="21" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Log%20out</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::ComboBox" x="975" y="10" w="181" h="-1" measuredW="181" measuredH="23" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>qiang@comitydesigns.com</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="944" y="10" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <icon>ContactIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="0" y="684" w="1272" h="65" measuredW="1272" measuredH="65" zOrder="2" locked="false" isInGroup="0">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="32" y="15" w="-1" h="-1" measuredW="168" measuredH="21" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <icon>CopyrightIcon%7Cxsmall</icon>
+                <labelPosition>right</labelPosition>
+                <text>2012%20Comity%20Designs%20Inc.</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="32" y="44" w="-1" h="-1" measuredW="184" measuredH="21" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>Report%20any%20issues%20with%20this%20app%20</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="209" y="44" w="-1" h="-1" measuredW="36" measuredH="21" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>here.</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="0" w="1272" h="-1" measuredW="100" measuredH="5" zOrder="3" locked="false" isInGroup="2"/>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="1086" y="44" w="-1" h="-1" measuredW="162" measuredH="21" zOrder="4" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>08/01/2012%20%20%20%20Mon%202%3A30PM</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
