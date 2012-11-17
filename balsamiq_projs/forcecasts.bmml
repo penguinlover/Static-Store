@@ -1,0 +1,204 @@
+<mockup version="1.0" skin="sketch" measuredW="1504" measuredH="2264" mockupW="1483" mockupH="2252">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="21" y="12" w="1483" h="2252" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//forcedotcom.dev</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="252" y="139" w="-1" h="-1" measuredW="331" measuredH="50" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FroceCasts%20%28beta%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="1070" y="189" w="-1" h="-1" measuredW="165" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Please%20leave%20your%20feedback</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::HRule" x="252" y="249" w="989" h="-1" measuredW="100" measuredH="5" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Paragraph" x="252" y="189" w="408" h="50" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Weekly%20updated%20vidoes%20teaches%20you%20how%20to%20make%20awesome%20Salesforce%20applications%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::SubTitle" x="354" y="627" w="-1" h="-1" measuredW="756" measuredH="37" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Please%20Watch%20Our%20Sample%20Videos%20and%20Leave%20Us%20Feedbacks%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="__group__" x="156" y="1715" w="819" h="81" measuredW="819" measuredH="81" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="448" y="60" w="-1" h="-1" measuredW="146" measuredH="21" zOrder="0" locked="false" isInGroup="103">
+          <controlProperties>
+            <text>Created%20At%3A%2012/12/2012</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="448" y="12" w="-1" h="-1" measuredW="146" measuredH="21" zOrder="1" locked="false" isInGroup="103">
+          <controlProperties>
+            <text>Created%20At%3A%2012/12/2012</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="0" y="12" w="-1" h="-1" measuredW="259" measuredH="21" zOrder="2" locked="false" isInGroup="103">
+          <controlProperties>
+            <text>Create%20a%20website%20in%20Salesforce%28Sample%20%232%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="0" y="59" w="-1" h="-1" measuredW="244" measuredH="21" zOrder="3" locked="false" isInGroup="103">
+          <controlProperties>
+            <text>Salesforce%20Standard%20Objects%28Sample%20%233%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="44" w="815" h="-1" measuredW="100" measuredH="5" zOrder="4" locked="false" isInGroup="103">
+          <controlProperties>
+            <color>6710886</color>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="0" w="819" h="-1" measuredW="100" measuredH="5" zOrder="5" locked="false" isInGroup="103">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+            <color>6710886</color>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Link" x="726" y="59" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="6" locked="false" isInGroup="103">
+          <controlProperties>
+            <text>Author%3A%20Q.H</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Link" x="725" y="12" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="7" locked="false" isInGroup="103">
+          <controlProperties>
+            <text>Author%3A%20Q.H</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="119" controlTypeID="__group__" x="1044" y="724" w="312" h="505" measuredW="312" measuredH="505" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="6" y="58" w="-1" h="-1" measuredW="106" measuredH="21" zOrder="0" locked="false" isInGroup="119">
+          <controlProperties>
+            <text>%28Sample%20Video%201%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="6" y="86" w="-1" h="-1" measuredW="146" measuredH="21" zOrder="1" locked="false" isInGroup="119">
+          <controlProperties>
+            <text>Created%20At%3A%2012/12/2012</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Link" x="6" y="113" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="2" locked="false" isInGroup="119">
+          <controlProperties>
+            <text>Author%3A%20Q.H</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="6" y="182" w="-1" h="-1" measuredW="176" measuredH="33" zOrder="3" locked="false" isInGroup="119">
+          <controlProperties>
+            <text>Your%20Comments</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="102" y="241" w="-1" h="-1" measuredW="79" measuredH="27" zOrder="4" locked="false" isInGroup="119">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="3" y="244" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="5" locked="false" isInGroup="119">
+          <controlProperties>
+            <text>Name</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="6" y="287" w="-1" h="-1" measuredW="91" measuredH="21" zOrder="6" locked="false" isInGroup="119">
+          <controlProperties>
+            <text>Email%20%28optional%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="102" y="284" w="146" h="-1" measuredW="79" measuredH="27" zOrder="7" locked="false" isInGroup="119">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::TextArea" x="102" y="323" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="119">
+          <controlProperties>
+            <text>...</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="6" y="323" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="9" locked="false" isInGroup="119">
+          <controlProperties>
+            <text>Message%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="102" y="478" w="-1" h="-1" measuredW="62" measuredH="27" zOrder="10" locked="false" isInGroup="119">
+          <controlProperties>
+            <text>Submit</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="0" w="202" h="64" measuredW="200" measuredH="80" zOrder="11" locked="false" isInGroup="119">
+          <controlProperties>
+            <size>24</size>
+            <text>Why%20Salesforce%20is%20%0ASo%20Awesome%21</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::HRule" x="6" y="149" w="306" h="-1" measuredW="100" measuredH="5" zOrder="12" locked="false" isInGroup="119">
+          <controlProperties>
+            <color>6710886</color>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="120" controlTypeID="__group__" x="156" y="724" w="846" h="961" measuredW="846" measuredH="961" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="3" y="29" w="843" h="557" measuredW="300" measuredH="200" zOrder="0" locked="false" isInGroup="120"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="3" y="0" w="-1" h="-1" measuredW="139" measuredH="21" zOrder="1" locked="false" isInGroup="120">
+          <controlProperties>
+            <text>Category%3A%20Architecture</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::SubTitle" x="274" y="222" w="-1" h="-1" measuredW="300" measuredH="33" zOrder="2" locked="false" isInGroup="120">
+          <controlProperties>
+            <text>ForceCasts%20Sample%20Video%201</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::MenuBar" x="3" y="612" w="-1" h="-1" measuredW="300" measuredH="29" zOrder="3" locked="false" isInGroup="120">
+          <controlProperties>
+            <text>Show%20Notes%2C%20Comments%2C%20Similar%20Videos</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="643" w="843" h="318" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="120"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::VSplitter" x="156" y="1890" w="1215" h="-1" measuredW="100" measuredH="12" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="125" controlTypeID="com.balsamiq.mockups::Link" x="315" y="1915" w="-1" h="-1" measuredW="42" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Github</text>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="__group__" x="156" y="1915" w="144" h="21" measuredW="144" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="17" y="0" w="-1" h="-1" measuredW="127" measuredH="21" zOrder="0" locked="false" isInGroup="130">
+          <controlProperties>
+            <text>2012%20Comity%20Designs</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="3" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="130">
+          <controlProperties>
+            <icon>CopyrightIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Paragraph" x="501" y="289" w="668" h="294" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>There%20are%20a%20lot%20documentation%20and%20YouTube%20videos%20why%20bother%20another%20one%3F%20Well%2C%20we%20as%20profiessional%20Salesforce%20developers%20with%20years%20of%20development%20experience%2C%20we%20believe%20we%20can%20deliver%20something%20more%20condensed%20and%20useful.%20The%20problem%20with%20public%20resources%20is%2C%20they%20are%20scatterd%20over%20the%20places%2C%20and%20contains%20a%20lot%20of%20redundent%20materials.%0A%20%0AOur%20goal%20is%20to%20make%20these%20videos%20short%20as%20possible%20%28because%20we%20don%27t%20want%20to%20waster%20your%20time%21%29%20but%20at%20the%20mean%20time%20be%20maximum%20helpful%21%0A%20%0AWe%20just%20started%2C%20so%20your%20feedback%20is%20very%20important%20to%20us%20to%20make%20things%20better%21%20Please%20take%20your%20time%20to%20review%20the%20sample%20videos%20and%20let%20us%20know%20your%20feeling.%20Any%20suggestions%20are%20welcomed%21%0A%20%0AEven%20though%20we%20have%20carefully%20planned%20topics%20ahead%2C%20you%20are%20still%20very%20welcomed%20to%20give%20us%20your%20requests.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Paragraph" x="281" y="289" w="176" h="79" measuredW="200" measuredH="80" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>What%20is%0AForceCasts%3F</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
