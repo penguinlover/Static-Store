@@ -1,0 +1,103 @@
+<mockup version="1.0" skin="sketch" measuredW="1152" measuredH="1260" mockupW="890" mockupH="1219">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::SearchBox" x="1032" y="45" w="-1" h="-1" measuredW="120" measuredH="25" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="262" y="41" w="-1" h="-1" measuredW="426" measuredH="33" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Salesforce%20-%20May%20the%20Force%20be%20with%20You</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="262" y="118" w="-1" h="-1" measuredW="244" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Blog%2C%20Photos%2C%20Projects%2C%20Cool%20Stuff</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::SubTitle" x="286" y="189" w="-1" h="-1" measuredW="361" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Salesforce%3A%20How%20to%20create%20parallel%20apex%20jobs%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="262" y="167" w="669" h="766" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="286" y="230" w="-1" h="-1" measuredW="57" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>12/01/12</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="286" y="266" w="618" h="589" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.Lorem%20ipsum%20dolor%20sit%20amet%2C%20etiam%20phasellus%20lorem%20ridiculus%20nec%2C%20a%20lobortis%20ad%20vitae%20eget%20vitae%2C%20dictum%20ridiculus%20condimentum%20auctor%20eros%20libero%20sed.%20Laudantium%20turpis%20ac%20ut.%20Adipisicing%20viverra.%20Donec%20quisque.%20Inceptos%20nunc%20quis%20ultrices%20nibh%20sodales%2C%20class%20quis.%20Ante%20integer%20aenean%2C%20facilisis%20vel.%20Sit%20ornare%20faucibus%20pellentesque%20magna%20per%2C%20et%20cras%20vivamus.%20Fusce%20leo%2C%20quisque%20eget%20suspendisse%2C%20donec%20ipsum%20ut%20velit%20sit%20dignissim.%20Magna%20lacinia%20id%20elit%2C%20montes%20quisque%2C%20felis%20non%2C%20mi%20id.%20Gravida%20eros%20malesuada%20ipsum%20vestibulum%20orci%20rutrum%2C%20imperdiet%20pulvinar.%0AMorbi%20hymenaeos%20id%20officia%2C%20ut%20tristique%2C%20est%20in%2C%20egestas%20felis%20odio%20blandit%20cursus%20aptent%20semper.%20Odio%20nec%20a%20arcu%20dui%20quam%20dolor%2C%20euismod%20praesent%20placerat%20lectus%20porttitor.%20Nec%20nisi%20blandit%20magna%20viverra%20elit%20tempor%2C%20sapien%20justo%20odio%20fermentum%20amet%2C%20taciti%20cras%20morbi%2C%20mauris%20quis%20in%20sed%2C%20donec%20fringilla%20libero%20dictum%20lacus%20in.%20Erat%20distinctio%2C%20vitae%20vehicula%20ridiculus%2C%20aliquam%20eleifend%20vivamus%20mus.%20In%20lorem%20aliquam%2C%20est%20ipsum%20venenatis%20pede%20rutrum%2C%20feugiat%20donec%20in%20dolor%20sed%2C%20porttitor%20morbi%20at%20urna%20porro%20porta%20fringilla%2C%20neque%20metus%20eu%20leo%20vehicula.%20Viverra%20commodo%20nulla%2C%20facilisis%20amet%20suspendisse%20non%2C%20sollicitudin%20accumsan%20enim%20lacus%2C%20nulla%20quam%20at%20posuere%20ut.%20Sed%20conubia%20in%2C%20ante%20condimentum%20diam%20ut%20conubia%20imperdiet.%20Felis%20donec%20cras%20lorem%20ac%20dui%20interdum.%20Eu%20vulputate%20mauris%2C%20varius%20fringilla%20libero%20suscipit%20ante%20aliquam.%0AOrci%20aute%20pharetra%20hendrerit%20arcu%20volutpat%2C%20blandit%20integer%20pulvinar%2C%20at%20ut%2C%20ac%20sit%20sociis%20amet%20tellus%20ad%2C%20justo%20velit%20eros%20ante.%20Vel%20pretium%20ante%20venenatis%20vehicula%2C%20magna%20justo%20luctus%20varius%20lorem%20molestie%20vestibulum%2C%20mauris%20est%20nec%20nisi%20rhoncus%20penatibus.%20Nonummy%20curabitur%20morbi%20enim%20rutrum%20pharetra%2C%20et%20pharetra.%20Elit%20magna%20consequat%20ultrices%20tempor%2C%20mattis%20sed%2C%20arcu%20voluptas%20euismod%20congue%20nam%2C%20vulputate%20eros%2C%20praesent%20massa.%20Suscipit%20massa%20sit%2C%20amet%20ornare%20donec%20sit%20mi%20saepe%2C%20sapien%20ac%20cras%20id%2C%20sed%20dapibus%20donec%20urna%20wisi.%20Cursus%20quam%20nulla%20non%20id%20tellus%20erat.%20Libero%20egestas%20rhoncus%20accumsan%20urna%20ultricies%20eu%2C%20varius%20gravida%20conubia%20primis%20blandit.%20Luctus%20turpis%20volutpat%2C%20suspendisse%20non.%20Turpis%20lectus%20est%20facilisis%2C%20hendrerit%20mauris%20ante%20mollis%20hendrerit%2C%20dapibus%20et%20dolor%20eget%2C%20vulputate%20eu%20justo%20mauris%20mi%20aliquam%20mauris.%20A%20amet%20mauris%20at.%0ACommodo%20at%20lectus%20senectus%20lorem%2C%20leo%20posuere%20metus%2C%20gravida%20neque%20metus%20wisi%20lacus%2C%20praesent%20orci%20massa%20duis%20integer%20natoque%20pellentesque%2C%20laoreet%20proin%20eget%20augue.%20Phasellus%20viverra%20sodales%2C%20ac%20ullamcorper%20amet.%20Massa%20nulla%2C%20metus%20eros%2C%20ut%20eum%20non%20cum%2C%20habitasse%20in.%20Feugiat%20justo%20convallis%20in%20convallis%20pede%2C%20nunc%20maecenas%20massa%20diam%20massa%2C%20ac%20quam%20proin%20suspendisse%20porta%20nibh.%20Nam%20sed%20blandit%20taciti%20ipsum%20egestas%2C%20pede%20ultrices%20nam.%20Aliquam%20mauris%20donec%20consectetuer%20ut%20eu%2C%20sapien%20ultrices%20volutpat%20purus%20luctus%2C%20eleifend%20iaculis%20urna.%20Integer%20non%20metus.%20Suspendisse%20mattis%20magna%20pharetra%2C%20elit%20id%20ipsum%2C%20pede%20vestibulum%20fames%20vivamus%20velit%20enim.%20Eget%20placerat%20laoreet%20enim%20nunc%20vivamus%2C%20ut%20varius%20convallis%2C%20ut%20sed%20tempor%20ante%20purus%20donec%20ante.%20Vestibulum%20mi%20sed%20commodo%20vestibulum%20senectus%2C%20amet%20velit%20mattis%20sem%20egestas%20eu%20nec%2C%20nascetur%20sapien.%20Eget%20egestas%2C%20rutrum%20porttitor%20porttitor%20dolor%20dolor%2C%20lectus%20ipsum%20venenatis%20sem%20sed.</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="__group__" x="822" y="878" w="48" h="25" measuredW="48" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Sharing%20Is%20Caring%20Widget</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="__group__" x="0" y="0" w="48" h="25" measuredW="300" measuredH="27" zOrder="0" locked="false" isInGroup="8">
+          <groupChildrenDescriptors>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <icon>FacebookIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="1" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <icon>TwitterIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="23" controlTypeID="__group__" x="262" y="946" w="669" h="314" measuredW="669" measuredH="314" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="2" y="0" w="667" h="-1" measuredW="100" measuredH="5" zOrder="0" locked="false" isInGroup="23"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="3" y="10" w="165" h="21" measuredW="95" measuredH="21" zOrder="1" locked="false" isInGroup="23">
+          <controlProperties>
+            <text>999%20Comments</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="46" w="666" h="43" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="23">
+          <controlProperties>
+            <text>Leave%20a%20message...</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="110" w="270" h="21" measuredW="156" measuredH="21" zOrder="3" locked="false" isInGroup="23">
+          <controlProperties>
+            <text>Jackson%20III%20-%2020%20hours%20ago</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="3" y="140" w="664" h="153" measuredW="200" measuredH="80" zOrder="4" locked="false" isInGroup="23">
+          <controlProperties>
+            <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.Lorem%20ipsum%20dolor%20sit%20amet%2C%20etiam%20phasellus%20lorem%20ridiculus%20nec%2C%20a%20lobortis%20ad%20vitae%20eget%20vitae%2C%20dictum%20ridiculus%20condimentum%20auctor%20eros%20libero%20sed.%20Laudantium%20turpis%20ac%20ut.</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Link" x="153" y="293" w="-1" h="-1" measuredW="39" measuredH="21" zOrder="5" locked="false" isInGroup="23">
+          <controlProperties>
+            <text>Reply</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::IconLabel" x="10" y="295" w="59" h="-1" measuredW="34" measuredH="16" zOrder="6" locked="false" isInGroup="23">
+          <controlProperties>
+            <icon>ThumbsUpIcon%7Cxsmall</icon>
+            <labelPosition>right</labelPosition>
+            <size>9</size>
+            <text>12</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="76" y="295" w="50" h="-1" measuredW="29" measuredH="16" zOrder="7" locked="false" isInGroup="23">
+          <controlProperties>
+            <icon>ThumbsDownIcon%7Cxsmall</icon>
+            <labelPosition>right</labelPosition>
+            <size>9</size>
+            <text>1</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
